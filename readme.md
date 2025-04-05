@@ -1,4 +1,4 @@
-A Streamlit application for uploading, processing, and querying stock reports using a Retrieval-Augmented Generation (RAG) system.
+A Streamlit application for uploading, processing, and querying stock reports using a Retrieval-Augmented Generation (RAG) system and intelligence AI
 
 ## Features
 
